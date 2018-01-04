@@ -1,2 +1,6 @@
-# js-design-patterns
-Design patterns tutorials from Udacity
+# JS Design Patterns (Udacity)
+
+## Exercices
+
+### Lesson 1
+* [Cat clicker](https://jsfiddle.net/omajul/Lzf5xyvw/)
